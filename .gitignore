@@ -159,7 +159,7 @@ dmypy.json
 
 #Containerlab stuff
 *_Topology*
-
+*.bak
 # Cython debug symbols
 cython_debug/
 
