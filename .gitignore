@@ -157,6 +157,9 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+#Containerlab stuff
+*_Topology*
+
 # Cython debug symbols
 cython_debug/
 
